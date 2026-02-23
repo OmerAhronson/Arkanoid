@@ -23,5 +23,5 @@ The game includes a paddle, **three balls**, and **six color-coded rows** of bre
 ## How to Run (IntelliJ IDEA)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OmerAhronson/Arakanoid.git
-   cd Arakanoid
+   git clone https://github.com/OmerAhronson/Arkanoid.git
+   cd Arkanoid
